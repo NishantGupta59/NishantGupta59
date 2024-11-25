@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Nishant Gupta
 
-### 🌐 Dot Net Developer
+### 🌐 Full Stack Dot Net Developer
 
-Dot Net Developer with a keen interest in building user-friendly, responsive, and efficient applications. Whether it's a sleek landing page or a robust backend system, I love solving real-world problems with code.
+Full Stack Dot Net Developer with a keen interest in building user-friendly, responsive, and efficient applications. Whether it's a sleek landing page or a robust backend system, I love solving real-world problems with code.
 
 ---
 
